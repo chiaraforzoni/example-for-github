@@ -1,6 +1,6 @@
 function setup() {
   createCanvas(800,600)
-  background(10)
+  background(100)
   noFill()
   angleMode(DEGREES)
   frameRate(60) //1 sec = 12 frames .... 10 secs= 120 frames
